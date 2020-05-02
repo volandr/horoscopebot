@@ -7,7 +7,6 @@ import os
 
 headers={'accept': '*/*', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}
 base_url = 'https://horoscopes.rambler.ru/'
-TOKEN = 'NzA0NzA0NjM4MDg3MzMxODgx.XqhB4g.CXtbK0KApujOCmhKLJwkOrb_Ydc'
 
 horoscope=['aries/', 'taurus/', 'gemini/', 'cancer/', 'leo/', 'virgo/', 'libra/',
            'scorpio/', 'sagittarius/', 'capricorn/', 'aquarius/', 'pisces/']
